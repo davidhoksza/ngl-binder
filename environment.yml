@@ -3,7 +3,7 @@ channels:
 dependencies:
 - jupyterlab=3
 #- nodejs
-#- ipython
+- ipython
 #- ipywidgets=7.5.1
 #- notebook
 #- ipykernel
