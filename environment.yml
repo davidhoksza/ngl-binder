@@ -9,6 +9,7 @@ dependencies:
 #- notebook
 #- ipykernel
 - nglview
+- biopython
 #- rdkit::rdkit
 #- pip:
     #- pytraj
