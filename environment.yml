@@ -9,7 +9,7 @@ dependencies:
 - ipykernel
 - nglview=2.7.7
 #- rdkit::rdkit
-- pip:
-    - pytraj
-    - ipython_blocking
-    - moviepy
+#- pip:
+    #- pytraj
+    #- ipython_blocking
+    #- moviepy
