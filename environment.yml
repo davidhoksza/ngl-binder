@@ -1,15 +1,15 @@
 channels:
 - conda-forge
 dependencies:
-- jupyterlab=3
+- jupyterlab=4.3.2
 #- nodejs
-- ipython
+- ipython=7.25.0
 #ipywidgets>=7.6.0,<8
-- ipywidgets=8.0.4 
+- ipywidgets=8.1.5 
 #- notebook
 #- ipykernel
-- nglview
-- biopython
+- nglview=3.1.4
+- biopython=1.81
 #- rdkit::rdkit
 #- pip:
     #- pytraj
